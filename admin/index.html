@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="paytmBrands">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel='stylesheet' href='../libs/angular-carousel/dist/angular-carousel.css' type='text/css'>
+    <link rel='stylesheet' href='./css/app.css' type='text/css'>
+</head>
+<body>
+    <script src='../libs/angular/angular.js'></script>
+    <script src="../libs/angular-touch/angular-touch.js"></script>
+    <script src='../libs/angular-carousel/dist/angular-carousel.js'></script>
+    <script src='./js/app.js'></script>
+    <div ng-controller="pocCtrl">
+        <!-- We would be creating the below directive-->
+        <!--<paytm-brands-carousel items="chunkedCarouselData"></paytm-brands-carousel>-->
+
+        <!-- Form: This could be made in react. -->
+        <form name="widgetForm">
+            <input name="widgetName" ng-model="widgetName" required placeholder="Widget Name">
+            <br>
+            <label class="checkbox" for="isActive">
+                Is Active :
+                <input type="checkbox" value="isActive" ng-model="isActive" name="hobby" id="isActive" >
+            </label>
+            <br>
+            <textarea rows="4" cols="50" ng-model="widgetJs" required placeholder="Widget Js" ></textarea>
+            <br>
+            <textarea rows="4" cols="50" ng-model="widgetTemplate" required placeholder="Widget Template" ></textarea>
+            <br>
+            <input type="button" ng-click="saveWidgetData()" value="Save Widget">
+        </form>
+    </div>
+</body>
+</html>

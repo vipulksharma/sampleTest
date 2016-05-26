@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c608326-66e7-4e03-b57b-391468352f47" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/list/demoListControls/img/100-0.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/list/demoListControls/img/100-1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/list/demoListControls/img/100-2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-touch/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poc/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-touch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoLoadSvgIconsFromUrl/img/icons/addShoppingCart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoSvgIconsFromURL/img/icons/addShoppingCart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoLoadSvgIconsFromUrl/img/icons/android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoSvgIconsFromURL/img/icons/android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoUsingTemplateCache/assets/android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/dist/angular-carousel.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/dist/angular-carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/dist/angular-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/src/angular-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/test/unit/angular-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/dist/angular-carousel.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/dist/angular-carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/src/css/angular-carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/test/unit/angular-carousel.shifty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/lib/angular-mobile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-touch/angular-touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-touch/angular-touch.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-touch/angular-touch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/consumer/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/consumer/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/backdrop/backdrop-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/backdrop/backdrop-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/backdrop/backdrop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/backdrop/backdrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/backdrop/backdrop.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/backdrop/backdrop.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/backdrop/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/button/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/card/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/checkbox/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/chips/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/content/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/core/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/datepicker/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/dialog/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/divider/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/fabActions/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/fabToolbar/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/gridList/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/icon/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/input/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/list/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menu/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menuBar/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/select/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sidenav/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/slider/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sticky/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/subheader/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/swipe/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/switch/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tabs/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/textField/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toast/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toolbar/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tooltip/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-touch/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/lib/browserTrigger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/button/button-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/button/button-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/button/button.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/button/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/button/button.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/button/button.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoLoadSvgIconsFromUrl/img/icons/cake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoSvgIconSets/assets/cake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoSvgIconsFromURL/img/icons/cake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoUsingTemplateCache/assets/cake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/card/card-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/card/card-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/card/card.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/card/card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/card/card.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/card/card.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/directivesHtml/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/checkbox/checkbox-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/checkbox/checkbox-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/checkbox/checkbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/checkbox/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/checkbox/checkbox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/checkbox/checkbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/chips/chips-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/chips/chips-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/chips/chips.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/chips/chips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/chips/chips.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/chips/chips.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/content/content-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/content/content-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/content/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/content/content.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/content/content.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/content/content.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/copy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/copy2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoSvgIconSets/assets/core-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoUsingTemplateCache/assets/core-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/core/core.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/core/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/core/core.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/core/core.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/datepicker/datepicker-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/datepicker/datepicker-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/datepicker/datepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/datepicker/datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/datepicker/datepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/datepicker/datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/core/default-theme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/dialog/dialog-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/dialog/dialog-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/dialog/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/dialog/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/dialog/dialog.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/dialog/dialog.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/divider/divider-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/divider/divider-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/divider/divider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/divider/divider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/divider/divider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/divider/divider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/fabActions/fabActions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/fabActions/fabActions.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/toolbar/demoBasicUsage/img/icons/favorite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/fullscreen.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/game.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/gridList/gridList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/gridList/gridList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/gridList/gridList.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/gridList/gridList.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/hangout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/input/demoIcons/icons/ic_email_24px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/input/demoIcons/icons/ic_person_24px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/input/demoIcons/icons/ic_phone_24px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/input/demoIcons/icons/ic_place_24px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/icon/icon-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/icon/icon-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/icon/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/icon/icon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/icon/icon.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/icon/icon.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/admin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/consumer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/input/input-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/input/input-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/input/input.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/input/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/input/input.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/input/input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/test/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/list/list-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/list/list-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/list/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/list/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/list/list.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/list/list.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/mail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menu/menu-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menu/menu-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menu/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menu/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menu/menu.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menu/menu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/toolbar/demoBasicUsage/img/icons/menu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menuBar/menuBar-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menuBar/menuBar-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menuBar/menuBar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menuBar/menuBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menuBar/menuBar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/menuBar/menuBar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/message.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poc/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poc/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/toolbar/demoBasicUsage/img/icons/more_vert.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poc/.idea/pgc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/print.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/src/directives/rn-carousel-auto-slide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/src/directives/rn-carousel-indicators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/src/directives/rn-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/select/select-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/select/select-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/select/select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/select/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/select/select.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/select/select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/share-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/src/directives/shifty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sidenav/sidenav-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sidenav/sidenav-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sidenav/sidenav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sidenav/sidenav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sidenav/sidenav.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sidenav/sidenav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-carousel/src/directives/sliceFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/slider/slider-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/slider/slider-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/slider/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/slider/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/slider/slider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/slider/slider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/icon/demoSvgIconSets/assets/social-icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sticky/sticky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sticky/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sticky/sticky.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/sticky/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/chips/demoBasicUsage/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/chips/demoContactChips/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/gridList/demoBasicUsage/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/gridList/demoDynamicTiles/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/gridList/demoResponsiveUsage/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/input/demoIcons/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/tabs/demoDynamicHeight/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/tabs/demoDynamicTabs/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/tabs/demoStaticTabs/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/subheader/subheader-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/subheader/subheader-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/subheader/subheader.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/subheader/subheader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/subheader/subheader.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/subheader/subheader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/swipe/swipe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/swipe/swipe.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/switch/switch-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/switch/switch-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/switch/switch.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/switch/switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/switch/switch.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/switch/switch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tabs/tabs-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tabs/tabs-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tabs/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tabs/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tabs/tabs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tabs/tabs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/textField/textField-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/textField/textField-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/textField/textField.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/textField/textField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/textField/textField.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/textField/textField.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toast/toast-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toast/toast-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toast/toast.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toast/toast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toast/toast.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toast/toast.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toolbar/toolbar-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toolbar/toolbar-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toolbar/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toolbar/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toolbar/toolbar.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/toolbar/toolbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tooltip/tooltip-default-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tooltip/tooltip-default-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tooltip/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tooltip/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tooltip/tooltip.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/modules/js/tooltip/tooltip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/angular-material/demos/bottomSheet/demoBasicUsage/img/icons/upload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poc/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/poc/.idea/workspace.xml" />
+    </list>
+    <ignored path="sampleTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sampleTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libs/angular/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="28" />
+    <option name="y" value="23" />
+    <option name="width" value="1386" />
+    <option name="height" value="847" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sampleTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="poc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c608326-66e7-4e03-b57b-391468352f47" name="Default" comment="" />
+      <created>1464241942538</created>
+      <option name="number" value="Default" />
+      <updated>1464241942538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="28" y="23" width="1386" height="847" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/consumer/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/angular/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
